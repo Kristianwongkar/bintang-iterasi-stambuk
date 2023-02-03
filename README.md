@@ -1,1 +1,1 @@
-# bintang-iterasi-stambuk
+Di mulai dari penginisialan sebagai banding ukuran dari huruf dan angka yang akan terbentuk dari bintang, kemudian penginisialan for "i" digunakan untuk mengatur jangka menurun, kemudian pengunaan "j" Untuk kesamping membentuk huruf dan angka dan if yang berada pada for "j" Digunakan untuk membentuk bintang Menjadi bentukan huruf dan bentuk angka.
